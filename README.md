@@ -14,7 +14,7 @@ o	brew install elastic/tap/elasticsearch-full
 Chạy backend: npm start (http://localhost.3001)
 ![image](https://github.com/tuanbie/FREN-Book/assets/84395117/c3f2a4ec-ad44-4c72-bba8-713a9548f109)
 
-Frontend
+<h1>Frontend</h1> 
 ReactJs, Redux/Redux-tookit, JavaScript
 
 Cài đặt :
