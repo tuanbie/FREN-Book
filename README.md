@@ -14,7 +14,7 @@
   <ul>
     <li>Cài đặt qua Homebrew:</li>
     <ul>
-      <code>brew tap elastic/tap</code>
+      <code>brew tap elastic/tap</code></ul></br>
   <code>brew install elastic/tap/elasticsearch-full</code>
     </ul>
   </ul>
