@@ -14,8 +14,8 @@
   <ul>
     <li>Cài đặt qua Homebrew:</li>
     <ul>
-      <li>brew tap elastic/tap</li>
-      <li>brew install elastic/tap/elasticsearch-full</li>
+      <code>brew tap elastic/tap</code>
+  <code>brew install elastic/tap/elasticsearch-full</code>
     </ul>
   </ul>
   <li>Trên Windows:</li>
@@ -29,6 +29,6 @@
 <p>ReactJs, Redux/Redux-tookit, JavaScript</p>
 <p>Cài đặt:</p>
 <ol>
-  <li>cd frontend</li>
-  <li>npm i/ npm install</li>
+  <code>cd backend</code>
+  <code>npm i/ npm install</code>
 </ol>
