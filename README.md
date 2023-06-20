@@ -2,8 +2,11 @@
 <p>NodeJs, Fastify, ElasticSearch, TypeScript</p>
 <p>Cài đặt project:</p>
 <ol>
-  <li>cd backend</li>
-  <li>npm i/ npm install</li>
+  <pre>
+  <code>&lt;li&gt;cd backend&lt;/li&gt;</code>
+  <code>&lt;li&gt;npm i/ npm install&lt;/li&gt;</code>
+</pre>
+
 </ol>
 <p>Cài đặt database Elasticsearch:</p>
 <ul>
