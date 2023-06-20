@@ -1,24 +1,32 @@
-<h1>BackEnd</h1> 
-NodeJs, Fastify, ElasticSearch, TypeScript
-
-Cài đặt project:
- cd backend
- npm i/ npm install
-
-Cài đặt database Elasticsearch :
--	Trên mac cài đặt qua brew: 	brew tap elastic/tap
-o	brew install elastic/tap/elasticsearch-full
--	Cài đặt trên win: Tải ElasticSearch qua trâng web chính thức, mở file vừa tải và chạy elasticsearch.bat 
--	Cả hai hệ điều hành trên thì elasticsearch chaỵ trên địa chỉ http://localhost:9200, có thể cài đặt thêm kibana để quản lý các index
-
-Chạy backend: npm start (http://localhost.3001)
+<h1>BackEnd</h1>
+<p>NodeJs, Fastify, ElasticSearch, TypeScript</p>
+<p>Cài đặt project:</p>
+<ol>
+  <li>cd backend</li>
+  <li>npm i/ npm install</li>
+</ol>
+<p>Cài đặt database Elasticsearch:</p>
+<ul>
+  <li>Trên macOS:</li>
+  <ul>
+    <li>Cài đặt qua Homebrew:</li>
+    <ul>
+      <li>brew tap elastic/tap</li>
+      <li>brew install elastic/tap/elasticsearch-full</li>
+    </ul>
+  </ul>
+  <li>Trên Windows:</li>
+  <ul>
+    <li>Tải Elasticsearch từ trang web chính thức</li>
+    <li>Mở file vừa tải và chạy elasticsearch.bat</li>
+  </ul>
+</ul>
+<p>Chạy backend: npm start (http://localhost:3001)</p>
 ![image](https://github.com/tuanbie/FREN-Book/assets/84395117/c3f2a4ec-ad44-4c72-bba8-713a9548f109)
-
-<h1>Frontend</h1> 
-ReactJs, Redux/Redux-tookit, JavaScript
-
-Cài đặt :
- cd frontend
- npm i/ npm install
-Chạy frontend: npm start (http://localhost.3000)
-![image](https://github.com/tuanbie/FREN-Book/assets/84395117/3e134fd3-0b68-473b-8d81-d8e3be932120)
+<h1>Frontend</h1>
+<p>ReactJs, Redux/Redux-tookit, JavaScript</p>
+<p>Cài đặt:</p>
+<ol>
+  <li>cd frontend</li>
+  <li>npm i/ npm install</li>
+</ol>
