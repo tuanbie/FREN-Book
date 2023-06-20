@@ -3,8 +3,8 @@
 <p>Cài đặt project:</p>
 <ol>
   <pre>
-  <code>&lt;li&gt;cd backend&lt;/li&gt;</code>
-  <code>&lt;li&gt;npm i/ npm install&lt;/li&gt;</code>
+  <code>cd backend</code>
+  <code>npm i/ npm install</code>
 </pre>
 
 </ol>
@@ -25,7 +25,6 @@
   </ul>
 </ul>
 <p>Chạy backend: npm start (http://localhost:3001)</p>
-![image](https://github.com/tuanbie/FREN-Book/assets/84395117/c3f2a4ec-ad44-4c72-bba8-713a9548f109)
 <h1>Frontend</h1>
 <p>ReactJs, Redux/Redux-tookit, JavaScript</p>
 <p>Cài đặt:</p>
